@@ -1,8 +1,12 @@
 /*
+
+
 Input: [5,10,15]
 Output: Arithmetic
 Input: [2,4,16,24]
 Output: -1
+
+
 */
 function ArithGeo(arr) { 
     var len = arr.length;
